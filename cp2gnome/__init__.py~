@@ -53,7 +53,7 @@ class cp2gnome(rb.Plugin):
     
     def get_selected_paths(self,shell):
         #source = shell.get_property("selected-source")
-        source = shell.props.selected_page
+        source = shell.props.library_source
         entry = rb.Source.get_entry_view(source)
         selected = entry.get_selected_entries()
         path_list = [] 
