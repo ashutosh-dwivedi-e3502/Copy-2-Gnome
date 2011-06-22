@@ -1,0 +1,8 @@
+[RB Plugin]
+Loader=python
+Module=cp2gnome
+Name=copy selection to gnome clipboard
+Description=copy the selected songs to the gnome clipboard
+Authors=ashutosh rupauliha dwivedi  <aashu.dwivedi@gmail.com>
+Copyright=Copyright © 2011 Ashutosh Dwivedi
+Website=http://www.bugsandbrains.blogspot.com
